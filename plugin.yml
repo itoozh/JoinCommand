@@ -1,0 +1,6 @@
+---
+name: JoinCommand
+version: 0.0.1
+main: yevwi\JoinCommand
+api: 4.0.0
+...

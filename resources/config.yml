@@ -1,0 +1,3 @@
+commands:
+  - "say hola {player}"
+  - "gamemode 1 {player}"
