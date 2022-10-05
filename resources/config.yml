@@ -1,3 +1,4 @@
 commands:
-  - "say hola {player}"
-  - "gamemode 1 {player}"
+  - "say {player} murio por {damager}"
+  - "say {damager} mato a alguien"
+  - "say {player} murio por perra"
